@@ -52,7 +52,7 @@ namespace tictacthacher
                     
                     Form form_win = new Form();
                     this.Hide();
-                    System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"C:\Users\palla\Documents\Coding\shisharp\tictacthacher\Resources\Frailah.wav");
+                    System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"..\..\Resources\Frailah.wav");
                     player.Play();
 
                     form_win.Text = "X won";
@@ -74,7 +74,7 @@ namespace tictacthacher
                     
                     Form form_win = new Form();
                     this.Hide();
-                    System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"C:\Users\palla\Documents\Coding\shisharp\tictacthacher\Resources\Frailah.wav");
+                    System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"..\..\Resources\Frailah.wav");
                     player.Play();
 
                     form_win.Text = "O won";
