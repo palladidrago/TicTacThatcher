@@ -8,3 +8,13 @@ C:\Users\palla\Desktop\TicTacThatcherfromGit\TicTacThatcher\obj\Debug\TicTacThat
 C:\Users\palla\Desktop\TicTacThatcherfromGit\TicTacThatcher\obj\Debug\TicTacThatcher.csproj.CoreCompileInputs.cache
 C:\Users\palla\Desktop\TicTacThatcherfromGit\TicTacThatcher\obj\Debug\tictacthacher.exe
 C:\Users\palla\Desktop\TicTacThatcherfromGit\TicTacThatcher\obj\Debug\tictacthacher.pdb
+C:\Users\palla\Documents\Coding\shisharp\TicTacThatcher\bin\Debug\tictacthacher.exe.config
+C:\Users\palla\Documents\Coding\shisharp\TicTacThatcher\bin\Debug\tictacthacher.exe
+C:\Users\palla\Documents\Coding\shisharp\TicTacThatcher\bin\Debug\tictacthacher.pdb
+C:\Users\palla\Documents\Coding\shisharp\TicTacThatcher\obj\Debug\TicTacThatcher.csprojAssemblyReference.cache
+C:\Users\palla\Documents\Coding\shisharp\TicTacThatcher\obj\Debug\tictacthacher.YshayMeirTicTacToe.resources
+C:\Users\palla\Documents\Coding\shisharp\TicTacThatcher\obj\Debug\tictacthacher.Properties.Resources.resources
+C:\Users\palla\Documents\Coding\shisharp\TicTacThatcher\obj\Debug\TicTacThatcher.csproj.GenerateResource.cache
+C:\Users\palla\Documents\Coding\shisharp\TicTacThatcher\obj\Debug\TicTacThatcher.csproj.CoreCompileInputs.cache
+C:\Users\palla\Documents\Coding\shisharp\TicTacThatcher\obj\Debug\tictacthacher.exe
+C:\Users\palla\Documents\Coding\shisharp\TicTacThatcher\obj\Debug\tictacthacher.pdb

@@ -12,10 +12,10 @@ using System.Windows.Forms;
 
 namespace tictacthacher
 {
-    public partial class Form1 : Form
+    public partial class YshayMeirTicTacToe : Form
     {
         
-        public Form1()
+        public YshayMeirTicTacToe()
         {
             InitializeComponent();
             
