@@ -45,7 +45,7 @@
             // 
             this.label02.AutoSize = true;
             this.label02.Font = new System.Drawing.Font("Impact", 110.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label02.Location = new System.Drawing.Point(523, 56);
+            this.label02.Location = new System.Drawing.Point(523, 66);
             this.label02.MaximumSize = new System.Drawing.Size(160, 160);
             this.label02.MinimumSize = new System.Drawing.Size(160, 160);
             this.label02.Name = "label02";
@@ -58,7 +58,7 @@
             // 
             this.label01.AutoSize = true;
             this.label01.Font = new System.Drawing.Font("Impact", 110.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label01.Location = new System.Drawing.Point(300, 56);
+            this.label01.Location = new System.Drawing.Point(300, 66);
             this.label01.MaximumSize = new System.Drawing.Size(160, 160);
             this.label01.MinimumSize = new System.Drawing.Size(160, 160);
             this.label01.Name = "label01";
@@ -71,7 +71,7 @@
             // 
             this.label00.AutoSize = true;
             this.label00.Font = new System.Drawing.Font("Impact", 110.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label00.Location = new System.Drawing.Point(64, 56);
+            this.label00.Location = new System.Drawing.Point(80, 66);
             this.label00.MaximumSize = new System.Drawing.Size(160, 160);
             this.label00.MinimumSize = new System.Drawing.Size(160, 160);
             this.label00.Name = "label00";
@@ -84,7 +84,7 @@
             // 
             this.label11.AutoSize = true;
             this.label11.Font = new System.Drawing.Font("Impact", 110.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(523, 285);
+            this.label11.Location = new System.Drawing.Point(300, 293);
             this.label11.MaximumSize = new System.Drawing.Size(160, 160);
             this.label11.MinimumSize = new System.Drawing.Size(160, 160);
             this.label11.Name = "label11";
@@ -97,7 +97,7 @@
             // 
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("Impact", 110.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.Location = new System.Drawing.Point(300, 285);
+            this.label12.Location = new System.Drawing.Point(523, 293);
             this.label12.MaximumSize = new System.Drawing.Size(160, 160);
             this.label12.MinimumSize = new System.Drawing.Size(160, 138);
             this.label12.Name = "label12";
@@ -110,7 +110,7 @@
             // 
             this.label22.AutoSize = true;
             this.label22.Font = new System.Drawing.Font("Impact", 110.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label22.Location = new System.Drawing.Point(523, 527);
+            this.label22.Location = new System.Drawing.Point(523, 516);
             this.label22.MaximumSize = new System.Drawing.Size(160, 160);
             this.label22.MinimumSize = new System.Drawing.Size(160, 160);
             this.label22.Name = "label22";
@@ -123,7 +123,7 @@
             // 
             this.label21.AutoSize = true;
             this.label21.Font = new System.Drawing.Font("Impact", 110.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label21.Location = new System.Drawing.Point(300, 527);
+            this.label21.Location = new System.Drawing.Point(300, 516);
             this.label21.MaximumSize = new System.Drawing.Size(160, 160);
             this.label21.MinimumSize = new System.Drawing.Size(160, 160);
             this.label21.Name = "label21";
@@ -137,7 +137,7 @@
             this.label20.AutoSize = true;
             this.label20.BackColor = System.Drawing.Color.Transparent;
             this.label20.Font = new System.Drawing.Font("Impact", 110.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label20.Location = new System.Drawing.Point(55, 527);
+            this.label20.Location = new System.Drawing.Point(80, 516);
             this.label20.MaximumSize = new System.Drawing.Size(160, 160);
             this.label20.MinimumSize = new System.Drawing.Size(160, 160);
             this.label20.Name = "label20";
@@ -150,7 +150,7 @@
             // 
             this.label10.AutoSize = true;
             this.label10.Font = new System.Drawing.Font("Impact", 110.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(64, 285);
+            this.label10.Location = new System.Drawing.Point(80, 293);
             this.label10.MaximumSize = new System.Drawing.Size(160, 160);
             this.label10.MinimumSize = new System.Drawing.Size(160, 160);
             this.label10.Name = "label10";
@@ -161,11 +161,11 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.BackColor = System.Drawing.SystemColors.Control;
+            this.pictureBox1.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.pictureBox1.BackgroundImage = global::tictacthacher.Properties.Resources.hashtag;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox1.Location = new System.Drawing.Point(22, 11);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(717, 713);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -177,6 +177,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(799, 727);
             this.Controls.Add(this.label20);
